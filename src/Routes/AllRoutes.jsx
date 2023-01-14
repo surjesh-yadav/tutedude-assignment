@@ -10,6 +10,6 @@ const AllRoutes = () => {
       <Route path="screen2" element={<Screen2 />} />
     </Routes>
   );
-};
+}; 
 
 export default AllRoutes;

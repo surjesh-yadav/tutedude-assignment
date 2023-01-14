@@ -17,7 +17,7 @@ const Referral2 = () => {
         </h3>
       </Link>
       <div className={style.ReferralDiv}>
-        {/* ------ Referral code ----------- */}
+        {/*  -- Referral code  --- */}
         <div className={style.ReferralCode}>
           <h3>Your Referral Code </h3>
           <p>&nbsp;EDCH54</p>

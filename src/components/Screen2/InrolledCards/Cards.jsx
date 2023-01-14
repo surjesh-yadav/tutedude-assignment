@@ -58,7 +58,7 @@ const Cards = () => {
       <h3>Friends who Enrolled ({data.length})</h3>
 
       <div className={style.CardMainDiv}>
-        {/* --------------- Map ----------------- */}
+        {/* Map  */}
         {data.map((el, i) => (
           <div key={i}>
             <div className={style.CardNameTime}>
@@ -67,7 +67,7 @@ const Cards = () => {
             </div>
             <p>Courses Enrolled ({el.courses.length})</p>
             <div className={style.courses}>
-              {/* -------------- Map course ----------- */}
+              {/* Map course  */}
               {el.courses &&
                 el.courses.map((el, i) => (
                   <div>
