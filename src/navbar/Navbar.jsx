@@ -7,7 +7,8 @@ import { FiChevronDown } from "react-icons/fi";
 export const Navbar = () => {
   return (
     <div>
-      <nav className={style.nav}>
+      <nav className={style.nav}>    
+      
         <div className={style.logo}>
           <img src={logo} alt="logo" />
         </div>
