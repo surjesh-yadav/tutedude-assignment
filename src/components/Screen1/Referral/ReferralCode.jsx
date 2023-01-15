@@ -3,7 +3,7 @@ import style from "./referral.module.css";
 
 const ReferralCode = () => {
   return (
-    // {/* ------ Referral code ----------- */}
+    // {/*  Referral code  */}
     <div className={style.ReferralCode}>
       <h3>Your Referral Code</h3>
       <div>

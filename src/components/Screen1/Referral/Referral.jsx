@@ -12,8 +12,8 @@ const Referral = () => {
       </p>
 
       <div className={style.ReferralMainDiv2}>
-        {/* ----------- Referral box ---------- */}
-        <div>
+        {/*   Referral box  */}
+        <div>   
           <div className={style.Box1}>
             <p>Referral Earning</p>
             <h2>₹ 2,500</h2>
